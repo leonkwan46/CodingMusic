@@ -7,3 +7,5 @@
 ⚡ There are many software built specifically for this genre - CodingMusic, but I decided to go with Sonic Pi (https://sonic-pi.net/)
 
 ⚡ My music is written in Ruby, clean and easy to understand, almost feel like coding in English
+
+⚡ https://www.youtube.com/watch?v=X1gEwQOadms&t=1s
